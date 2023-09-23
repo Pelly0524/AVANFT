@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Truffle
+build/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Solidity
+*.solcinput
+*.solcoutput
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
